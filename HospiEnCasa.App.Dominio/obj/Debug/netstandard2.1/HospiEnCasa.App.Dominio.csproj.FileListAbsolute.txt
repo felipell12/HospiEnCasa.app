@@ -1,0 +1,18 @@
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.deps.json
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Users\felipell12\Downloads\mision tic\programacion\MisionTIC-2021-Ciclo3-main\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.deps.json
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Users\felipell12\Downloads\mision tic\programacion\hospi en casa\HospiEnCasa.app\HospiEnCasa.app.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb

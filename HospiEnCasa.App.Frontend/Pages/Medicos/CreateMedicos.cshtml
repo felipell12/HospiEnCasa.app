@@ -1,0 +1,56 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.pages.CreateMedicosModel
+@using HospiEnCasa.App.Dominio
+
+@{
+    ViewData["Title"] = "Crear Medico";
+}
+
+@Html.DropDownListFor(m=>m.Medico,new SelectList(Enum.GetValues(typeof(Enum_Genero))))
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h3>Crear Medico</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-10">
+            <form method="post" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="control-label" asp-for=@Model.Medico.Nombre></label>
+                    <input class="form-control" asp-for=@Model.Medico.Nombre />
+                    <span asp-validation-for=@Model.Medico.Nombre class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="col-6">
+                        <div class="input-group">
+                            <label class="input-group-text">Genero</label>
+                            <select class="form-select">
+                                <option selected>genero</option>
+                                <option>Masculino</option>
+                                <option>femenino</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-6"></div>
+                    <span asp-validation-for=@Model.Medico.Genero class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" asp-for=@Model.Medico.Especialidad></label>
+                    <input class="form-control" asp-for=@Model.Medico.Especialidad />
+                    <span asp-validation-for=@Model.Medico.Especialidad class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input class="btn btn-primary" value="Crear Medico" type="submit" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+<partial name="_ValidationScriptsPartial" />
+}
